@@ -52,4 +52,4 @@ Tras evaluar los modelos (donde la Regresión Logística y SVM destacaron por su
 * **Retención Proactiva:** Utilizar el modelo predictivo para identificar clientes en alto riesgo (especialmente aquellos con contratos mensuales y facturas altas) y ofrecerles bonos de fidelización automáticos.
 
 ---
-**Desarrollado por [Tu Nombre/Usuario]** para el Desafío Alura.
+**Desarrollado por Emilio Mauricio Ortega Salazar]** para el Desafío Alura.
